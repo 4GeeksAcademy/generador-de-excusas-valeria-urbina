@@ -1,5 +1,28 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
 body{
+    background: lightcyan;
+}
+.wrap{
+    width: 80%;
+    margin:  auto;
+    padding: 50px;
+    align-items: center;
+    border: 2px solid darkcyan;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
     background: white;
+}
+h1{
+    color: darkblue;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+
+}
+h2{
+    color: darkgoldenrod;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
 }
